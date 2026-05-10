@@ -1,5 +1,5 @@
 /**
- * Gestion de la boule
+ * Gestion de la boule xx
  *
  */
 public class Boule extends Objet {
